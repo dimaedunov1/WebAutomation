@@ -20,7 +20,7 @@ private WebDriver driver;
     public void firstTestStepsPartOne(){
     driver.manage().window().maximize();
 
-    driver.navigate().to("http://www.ynet.co.il");
+    driver.navigate().to("http://www.investing.com");
 }
 
 }
